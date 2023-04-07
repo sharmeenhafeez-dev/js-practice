@@ -29,11 +29,11 @@
 //  console.log("alert ")
 
 
-console.log(12+35)
-console.log(7-5)
-console.log(6*5)
-console.log(32/5)
-console.log(5**2)  
+// console.log(12+35)
+// console.log(7-5)
+// console.log(6*5)
+// console.log(32/5)
+// console.log(5**2)  
 
 
 
@@ -65,5 +65,21 @@ console.log(5**2)
 
 
 
+
+// task 1 7 april 2023
+
+
+
+var zakatPercentage = 0.025
+console.log(zakatPercentage)
+
+var userinput = +prompt ("Enter Your Amount")
+console.log(userinput)
+
+
+var result = (0.025 * userinput)
+console.log(result)
+
+alert("Your Zakat is :" + result)
 
 
