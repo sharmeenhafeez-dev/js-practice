@@ -66,20 +66,63 @@
 
 
 
+
 // task 1 7 april 2023
 
 
 
-var zakatPercentage = 0.025
-console.log(zakatPercentage)
+// var zakatPercentage = 0.025
+// console.log(zakatPercentage)
 
-var userinput = +prompt ("Enter Your Amount")
-console.log(userinput)
-
-
-var result = (0.025 * userinput)
-console.log(result)
-
-alert("Your Zakat is :" + result)
+// var userinput = +prompt ("Enter Your Amount")
+// console.log(userinput)
 
 
+// var result = (0.025 * userinput)
+// console.log(result)
+
+// alert("Your Zakat is :" + result)
+
+// var thanx = "Thanks for your input!"
+// alert(thanx);
+
+
+
+
+// Variables for Strings    JO CHEEZ "" IS MY HO GI WO STRINH H   chay words(thnaks ) ho ya no (3) etc
+
+
+// alert ( "Thanks for your input!" );
+// var name = "shan";      // var jb hm ak bar bana lyty h to agr hm us k input ko chang krna chay bad 
+// name = "Ace";            //  my to sir hmy var ka name hi likhna hoga new var ni banana pry gA
+// console.log(name)
+
+// var nationality = "U.S.";
+// nationality = "U.A.";
+
+// console.log(nationality)
+
+
+
+
+// var floogle = "shan";
+// console.log(floogle)   va ka name chng hony sy js ko firk ni prta
+
+
+// var lastName = "Smith";
+// console.log(lastName)
+
+
+
+// var thanx = "Thanks for your input!"
+// alert(thanx);
+
+
+
+// Variables for Numbers      3  ya h no "" my ni h is liya ya string ni h no h  agr hm concatination kry gy to add ho ka 
+
+// var weight = 150;
+// console.log ("weight")
+
+// weight + 50
+// console.log ("weight")
